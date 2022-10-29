@@ -1,5 +1,5 @@
 """
-출처 links:
+참고한 사이트 links:
 http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html
 http://www.pythoncentral.io/introduction-to-sqlite-in-python/
 https://gist.github.com/techsharif/7868666b6c6de97cda20941cd2f8c6be
